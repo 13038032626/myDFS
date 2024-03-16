@@ -1,3 +1,9 @@
+### sorry需要您重定向一下，这个仓库由于之前一个超大文件的影响出现奇怪的bug，需要移步到新的仓库
+https://github.com/13038032626/myDFS
+---
+---
+
+
 # myDFS
 自研myDFS，渐进式地仿照HDFS，FastDFS等产品手写分布式文件系统
 
