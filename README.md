@@ -1,5 +1,5 @@
 ### sorry需要您重定向一下，这个仓库由于之前一个超大文件的影响出现奇怪的bug，需要移步到新的仓库
-https://github.com/13038032626/myDFS
+https://github.com/13038032626/ddfs
 ---
 ---
 
